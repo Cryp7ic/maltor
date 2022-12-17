@@ -8,3 +8,4 @@
         \/     \/                          
 v1.0
 ```
+Maltor is a CLI tool for 
