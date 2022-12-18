@@ -8,4 +8,4 @@
         \/     \/                          
 v1.1.0
 ```
-Maltor is a CLI tool for 
+Maltor is A CLI tool for static malware analysis written in Python
