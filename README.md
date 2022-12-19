@@ -6,6 +6,6 @@
 /  /\  |  \/ __ \_  |__|  | (  \_\ )|  | \/
 \_/  \/|  /____  /____/|__|  \____/ |__|   
         \/     \/                          
-v1.1.0
+v0.1.1
 ```
 Maltor is an open source CLI tool for static malware analysis written in Python
